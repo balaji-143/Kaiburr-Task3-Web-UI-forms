@@ -3,6 +3,8 @@
 
 This project is a **Java Spring Boot** backend with a **React 19 + TypeScript frontend** using Ant Design. The application allows you to create, search, delete, and execute shell command tasks, with data stored in MongoDB.
 
+## **VIDEO DEMO**
+[Watch the demo video]([Watch the demo video](https://www.youtube.com/watch?v=VIDEO_ID))
 ---
 
 ## **File Structure**
@@ -200,9 +202,6 @@ curl -X DELETE http://localhost:8081/tasks/101
 
 ---
 
-## **VIDEO DEMO**
-[Watch the demo video]([Watch the demo video](https://www.youtube.com/watch?v=VIDEO_ID)
-)
 
 
 
